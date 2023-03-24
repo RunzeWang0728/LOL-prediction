@@ -1,4 +1,3 @@
-# LOL-prediction
 # Prediction and Analysis of the League of Legends Professional Game
 
 **Name(s)**: Runze Wang, Xuecheng Xu
